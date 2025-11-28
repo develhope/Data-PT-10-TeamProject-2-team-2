@@ -39,6 +39,7 @@ Prerequisiti
 
 È necessario avere Python installato.
 
+
 1. Clonare la Repository
 
 git clone [INSERIRE QUI IL TUO URL GITHUB]
@@ -59,6 +60,7 @@ Il codice utilizza l'API di Gemini per l'Agente AI.
 Ottieni la tua chiave API di Gemini.
 
 Apri il file eco_analyst.py e, se necessario per il tuo ambiente, inserisci la chiave nella variabile API_KEY (anche se l'ambiente di esecuzione finale potrebbe fornirla automaticamente).
+
 
 4. Esecuzione dell'App
 
