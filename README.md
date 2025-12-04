@@ -73,4 +73,4 @@ L'app si aprirà automaticamente nel tuo browser, di solito all'indirizzo http:/
 
 📝 Licenza
 
-Questo progetto è distribuito sotto la Licenza MIT.
+Questo progetto utilizza il framework Streamlit, distribuito sotto Licenza Apache 2.0 (Copyright 2025 Snowflake Inc.). Il codice specifico del progetto (eco_analyst.py) è rilasciato sotto Licenza MIT.
