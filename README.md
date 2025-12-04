@@ -14,7 +14,7 @@ Questo modulo gestisce l'analisi quantitativa dell'impatto ambientale.
 
 ⦁	Funzionalità: Permette agli utenti di regolare le percentuali di diverse fonti energetiche (Solare, Vento, Idrico, Gas Fossile, Carbone) tramite slider laterali.
 
-⦁	Calcoli: Utilizza Pandas e NumPy per eseguire calcoli vettoriali rapidi che determinano:
+⦁	Calcoli: Utilizza Pandas e NumPy per eseguire calcoli vettoriali rapidi che determinano in modo fittizzio, generico e semplice:
    - L'energia totale generata (GWh/anno).
    - Le emissioni totali di CO2 (Tonnellate).
    - I costi totali stimati (Milioni di €).
